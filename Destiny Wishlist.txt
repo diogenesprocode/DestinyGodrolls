@@ -1,5 +1,5 @@
 title:Minha lista de desejos
-
+//+++++++++++++++++++++++++++++++++
 //Armas do Banshee
 
 //Antiope-D
@@ -27,15 +27,15 @@ dimwishlist:item=3419149443&perks=3250034553,2969185026,957782887,2551157718
 //Zenóbia-D
 https://destinytracker.com/destiny-2/db/items/3776129137?perks=216781713,981914802,2822142346,2846385770,1275731761
 
-
+//+++++++++++++++++++++++++++++++++
 //Armas do Crisol
 
 //Demonios Melhores
-https://destinytracker.com/destiny-2/db/items/153979397?perks=1294026524,1926090093,3142289711,1168162263,1015611457
+dimwishlist:item=153979397&perks=1926090093,3142289711,1168162263,1015611457
 //Duras Verdades
-https://destinytracker.com/destiny-2/db/items/105567493?perks=1525239159,663495154,1885400500,2039302152,1015611457
+dimwishlist:item=105567493&perks=663495154,1885400500,2039302152,1015611457
 //Outono Anônimo
-https://destinytracker.com/destiny-2/db/items/3222518097?perks=1458010786,445755710,1885400500,4267945040,3425386926
+dimwishlist:item=3222518097&perks=445755710,1885400500,4267945040,3425386926
 //Destino Injusto
 https://destinytracker.com/destiny-2/db/items/1684914716?perks=1294026524,554078784,1885400500,957782887,1168162263
 //Sybil de Aço Z-14
@@ -51,7 +51,7 @@ https://destinytracker.com/destiny-2/db/items/2278995296?perks=1019291327,240563
 //Last Perdition
 https://destinytracker.com/destiny-2/db/items/188882152?perks=1294026524,3151536500,3142289711,1168162263,3425386926
 
-
+//+++++++++++++++++++++++++++++++++
 //Bandeira de Ferro
 
 //Bafo do Dragão
@@ -79,19 +79,19 @@ dimwishlist:item=2108920981&perks=981914802,3301904089,4071163871,3523296417
 //Fardo do Herói
 https://destinytracker.com/destiny-2/db/items/1865351684?perks=1294026524,3151536500,1885400500,2039302152,2213355989
 
-
+//+++++++++++++++++++++++++++++++++
 //Armas da Vanguarda
 
 //Meia-noite Obscura
-https://destinytracker.com/destiny-2/db/items/3040742682?perks=1636108362,679077873,3142289711,2213355989,1015611457
+dimwishlist:item=3040742682&perks=2405638014,3142289711,2213355989,1168162263
 //A Última Dança
-https://destinytracker.com/destiny-2/db/items/2009277538?perks=31057037,445755704,1885400500,4267945040,1015611457
+dimwishlist:item=2009277538&perks=445755704,1885400500,4267945040,1015611457
 //Problema e Confusão
 https://destinytracker.com/destiny-2/db/items/2957367743?perks=3983457027,1047830412,3142289711,3161816588,3425386926
 //Ingrediente Principal
-https://destinytracker.com/destiny-2/db/items/253196586?perks=1636108362,2405638014,2969185026,3300816228,2213355989
+dimwishlist:item=253196586&perks=2405638014,2969185026,3300816228,2213355989
 //Sombra Longa
-https://destinytracker.com/destiny-2/db/items/3745990145?perks=1294026524,893526895,3142289711,957782887,1168162263
+dimwishlist:item=3745990145&perks=893526895,3142289711,957782887,1168162263
 //Sorte Ultrajante
 https://destinytracker.com/destiny-2/db/items/4146702548?perks=2353477480,981914802,3301904089,3300816228,3425386926
 //Erva-Moura
@@ -99,9 +99,10 @@ https://destinytracker.com/destiny-2/db/items/792755504?perks=1458010786,2405638
 //Persuasivo
 https://destinytracker.com/destiny-2/db/items/4083045006?perks=878286503,767484757,3142289711,957782887,1168162263
 //Service Revolver
-https://destinytracker.com/destiny-2/db/items/834081972?perks=1322370662,1926090093,3142289711,247725512,1015611457
+dimwishlist:item=834081972&perks=1926090093,3142289711,247725512,1015611457
 
 
+//+++++++++++++++++++++++++++++++++
 //Armas Artimanha
 
 //Risco da Aposta
@@ -141,7 +142,7 @@ dimwishlist:item=715338174&perks=938542991,52780822,1749209109,3913600130
 //Apocalipse
 https://destinytracker.com/destiny-2/db/items/736901634?perks=1294026524,981914802,3301904089,3300816228,2888557110
 
-
+//+++++++++++++++++++++++++++++++++
 //Armas do Arsenal Negro
 
 //Cabeça de Martelo
@@ -179,12 +180,12 @@ https://destinytracker.com/destiny-2/db/items/1757129747?perks=2353477480,981914
 //Cárcere XE5837
 https://destinytracker.com/destiny-2/db/items/2817798849?perks=1294026524,981914802,2822142346,3300816228,1275731761
 
-
+//+++++++++++++++++++++++++++++++++
 //Cativeiro
 
 //
 
-
+//+++++++++++++++++++++++++++++++++
 //Armas da Lua
 
 //Loud Lullaby
@@ -212,7 +213,7 @@ https://destinytracker.com/destiny-2/db/items/2782847179?perks=918679156,3250034
 //Heretic
 https://destinytracker.com/destiny-2/db/items/3067821200?perks=3468089894,1441682018,2822142346,3523296417,1275731761
 
-
+//+++++++++++++++++++++++++++++++++
 //Jardim da Salvação
 
 //Oráculo Imprudente
@@ -228,7 +229,7 @@ dimwishlist:item=2209003210&perks=3250034553,2969185026,3300816228,2213355989
 //Olho Onisciente
 dimwishlist:item=3454326177&perks=3250034553,3142289711,1168162263,957782887
 
-
+//+++++++++++++++++++++++++++++++++
 //Flagelo do Passado
 
 //Sem Sentimentos
@@ -240,11 +241,11 @@ dimwishlist:item=2753269585&perks=3433396027,2969185026,1600092898,2213355989
 //Gigante Bramidor
 dimwishlist:item=2186258845&perks=981914802,2822142346,3977735242,1275731761
 
-
+//+++++++++++++++++++++++++++++++++
 //Último Desejo
 //
 
-
+//+++++++++++++++++++++++++++++++++
 //Coroa do Desalento
 
 //Mão Direita de Gahlran
@@ -256,7 +257,7 @@ dimwishlist:item=3861448240&perks=1047830412,3142289711,1631667848,2679249093
 //Perdição do desalento
 dimwishlist:item=1496419775&perks=3250034553,1968497646,2779035018,3425386926
 
-
+//+++++++++++++++++++++++++++++++++
 //Armas do Obelisco
 
 //Gallant Charge
@@ -285,21 +286,34 @@ https://destinytracker.com/destiny-2/db/items/4166221755?perks=3468089894,148202
 //Paradoxo Perfeito
 https://destinytracker.com/destiny-2/db/items/3393519051?perks=996573084,1047830412,3142289711,3161816588,4082225868
 
-
+//+++++++++++++++++++++++++++++++++
 //Sétimo Serafim
 
 //Seventh Seraph CQC-12
-dimwishlist:item=1821724780&perks=1047830412,3142289711,3161816588,1546637391
+dimwishlist:item=1821724780&perks=1047830412,3142289711,3300816228,1546637391
 //Seventh Seraph VY-7
 dimwishlist:item=766323545&perks=3250034553,3142289711,972757866,1546637391
 //Seventh Seraph Officer Revolver
 dimwishlist:item=3037520408&perks=3250034553,3142289711,205890336,2458213969
 //Seventh Seraph Carbine
-dimwishlist:item=1561006927&perks=3250034553,1885400500,4071163871,4082225868
+dimwishlist:item=1561006927&perks=3250034553,1885400500,3300816228,4082225868
 //Seventh Seraph SAW
 dimwishlist:item=2582755344&perks=3250034553,1968497646,2284787283,1546637391
+//Seventh Seraph SI-2
+dimwishlist:item=3937866388&perks=3250034553,3142289711,4267945040,3708227201
 
 
+//+++++++++++++++++++++++++++++++++
+//Aparições
+
+//Laje Sussurrada
+dimwishlist:item=211938782&perks=2801223209,3827198035,201365942,3108830275
+//Palavras Vazias
+dimwishlist:item=607191995&perks=3250034553,2969185026,706527188,3350417888
+//
+
+
+//+++++++++++++++++++++++++++++++++
 //Mundo - Renegados
 
 //Mordida Arsenica
@@ -319,30 +333,61 @@ https://destinytracker.com/destiny-2/db/items/819441402?perks=878286503,14523686
 //Palavra do Contrabandista
 dimwishlist:item=1843044399&perks=445755704,1885400500,4267945040,3425386926
 //Calamidade Sutil
-https://destinytracker.com/destiny-2/db/items/3410721600?perks=715195141,2801223209,3827198035,3425386926,201365942
+dimwishlist:item=3410721600&perks=2801223209,3827198035,3425386926,201365942
 //Dez Passos
 dimwishlist:item=2112909415&perks=1926090093,3142289711,957782887,1954620775
 //Bater em Retirada
-dimwishlist:item=3501969491&perks=809345546,1968497646,1168162263,2387244414
+dimwishlist:item=3501969491&perks=1452368633,1885400500,1168162263,3425386926
 //Teoria da Translação
 dimwishlist:item=1843044398&perks=445755704,1885400500,4267945040,3425386926
+//Pelo Fogo e pela água
+dimwishlist:item=301362381&perks=981914802,3301904089,3300816228,706527188
+//Lado Errado do Certo
+dimwishlist:item=3957603605&perks=1452368633,3142289711,1168162263,3038247973
 
 
+//+++++++++++++++++++++++++++++++++
 //Mundo - Alvorada
-
-//Mundo - Digno
 
 //Moss Epoch III
 https://destinytracker.com/destiny-2/db/items/1529450902?perks=3468089894,981914802,2822142346,3977735242,1275731761
-//Bater em Retirada
-https://destinytracker.com/destiny-2/db/items/3501969491?perks=1019291327,809345546,1885400500,1168162263,3425386926
-//Pelo Fogo e pela água
-https://destinytracker.com/destiny-2/db/items/301362381?perks=1294026524,981914802,3301904089,3300816228,3425386926
-//Lado Errado do Certo
-dimwishlist:item=3957603605&perks=1452368634,3142289711,1168162263,3425386926
-//Saque do enigma
-dimwishlist:item=1723380073&perks=445755704,3142289711,1631667848,4082225868
 //Presente de Uriel
 dimwishlist:item=3863882743&perks=1628165637,1885400500,2869569095,1015611457
 //Elatha FR4
 dimwishlist:item=4106983932&perks=1628165637,2969185026,706527188,1600092898
+//Última Esperança
+dimwishlist:item=3622137132&perks=445755704,1885400500,2779035018,2458213969
+//Moda Antiga
+dimwishlist:item=3569802112&perks=1926090093,3142289711,2779035018,1015611457
+
+
+//+++++++++++++++++++++++++++++++++
+//Mundo - Digno
+
+//Saque do enigma
+dimwishlist:item=1723380073&perks=445755704,3142289711,4267945040,4082225868
+//Vértice da Linha do tempo
+dimwishlist:item=3055192515&perks=1409978311,2969185026,3300816228,1600092898
+//Promessa Terrível
+dimwishlist:item=2742838701&perks=1926090093,1561002382,47981717,4082225868
+//Túmulo Distante
+dimwishlist:item=2807687156&perks=3250034553,3142289711,2284787283,1771339417
+//Velocidade de Escape
+dimwishlist:item=1786797708&perks=663495155,3142289711,1631667848,3708227201
+//Gume da Honra
+dimwishlist:item=2857348871&perks=938542991,3625355092,1749209109,2244851822
+//Interferência VI
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110
+//Jian 7
+dimwishlist:item=1162247618&perks=3151536501,1885400500,4267945040,4082225868
+//Verdadeira Profecia
+dimwishlist:item=2742838700&perks=1926090093,3142289711,2869569095,1954620775
+
+
+//+++++++++++++++++++++++++++++++++
+//Mundo - Aparições
+
+//Veracícimo
+dimwishlist:item=1946491241&perks=981914802,3301904089,3300816228,706527188
+//Natureza da fera
+dimwishlist:item=1835747805&perks=1926090093,3142289711,1820235745,2213355989
