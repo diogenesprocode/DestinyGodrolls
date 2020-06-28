@@ -116,7 +116,7 @@ https://destinytracker.com/destiny-2/db/items/4077196130?perks=1322370662,325003
 //Saqueadora
 https://destinytracker.com/destiny-2/db/items/2653316158?perks=1458010786,3250034553,1885400500,1168162263,3425386926
 //Mau Presságio
-https://destinytracker.com/destiny-2/db/items/991314988?perks=3468089894,981914802,2822142346,3977735242,1275731761
+dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761
 //Aventura Temida
 https://destinytracker.com/destiny-2/db/items/3100452337-dreaded-venture
 //Volume de Poeira Estelar
@@ -183,7 +183,20 @@ https://destinytracker.com/destiny-2/db/items/2817798849?perks=1294026524,981914
 //+++++++++++++++++++++++++++++++++
 //Cativeiro
 
-//
+//Falcoeiro
+dimwishlist:item=2429822977&perks=3250034553,3142289711,1168162263,47981717
+//Bem Amado
+dimwishlist:item=4190932264&perks=3250034553,3142289711,2866798147,2551157718
+//CALUS Mini-Ferramenta
+dimwishlist:item=174192097&perks=3250034553,1885400500,1631667848,3708227201
+//Drang Barroca
+dimwishlist:item=79075821&perks=3250034553,1885400500,4267945040,4082225868
+//Chances Fixas
+dimwishlist:item=1642384931&perks=3250034553,1968497646,2779035018,3425386926
+//Decreto Imperial
+dimwishlist:item=2919334548&perks=1047830412,3142289711,1631667848,2360754333
+//O Hedonista
+dimwishlist:item=4124357815&perks=3250034553,2969185026,706527188,1600092898
 
 //+++++++++++++++++++++++++++++++++
 //Armas da Lua
@@ -257,6 +270,7 @@ dimwishlist:item=3861448240&perks=1047830412,3142289711,1631667848,2679249093
 //Perdição do desalento
 dimwishlist:item=1496419775&perks=3250034553,1968497646,2779035018,3425386926
 
+
 //+++++++++++++++++++++++++++++++++
 //Armas do Obelisco
 
@@ -286,6 +300,7 @@ https://destinytracker.com/destiny-2/db/items/4166221755?perks=3468089894,148202
 //Paradoxo Perfeito
 https://destinytracker.com/destiny-2/db/items/3393519051?perks=996573084,1047830412,3142289711,3161816588,4082225868
 
+
 //+++++++++++++++++++++++++++++++++
 //Sétimo Serafim
 
@@ -307,11 +322,27 @@ dimwishlist:item=3937866388&perks=3250034553,3142289711,4267945040,3708227201
 //Aparições
 
 //Laje Sussurrada
-dimwishlist:item=211938782&perks=2801223209,3827198035,201365942,3108830275
+dimwishlist:item=211938782&perks=2801223209,3827198035,201365942,3350417888
 //Palavras Vazias
-dimwishlist:item=607191995&perks=3250034553,2969185026,706527188,3350417888
-//
+dimwishlist:item=607191995&perks=3250034553,2969185026,706527188,1546637391
+//Falsas Promessas
+dimwishlist:item=3143732432&perks=3250034553,1885400500,2450788523,3108830275
+//Gancho da Tentação
+dimwishlist:item=35794111&perks=938542991,2349202967,1749209109,1546637391
+//Fio da Guilhotina
+dimwishlist:item=614426548&perks=938542991,2349202967,1749209109,3913600130
+//Negação Fria
+dimwishlist:item=1216130969&perks=3250034553,1885400500,2779035018,2458213969
 
+
+//+++++++++++++++++++++++++++++++++
+//Dungeon Profecia
+//+++++++++++++++++++++++++++++++++
+//IKELOS_HC_V1.0.2
+dimwishlist:item=1200824700&perks=3250034553,1140096971,1820235745,2213355989
+//IKELOS_SG_V1.0.2
+dimwishlist:item=1096206669&perks=3250034553,3142289711,4071163871,1546637391
+//
 
 //+++++++++++++++++++++++++++++++++
 //Mundo - Renegados
