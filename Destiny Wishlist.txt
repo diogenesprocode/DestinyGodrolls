@@ -78,6 +78,7 @@ https://destinytracker.com/destiny-2/db/items/930590127?perks=1019291327,2405638
 dimwishlist:item=2108920981&perks=981914802,3301904089,4071163871,3523296417
 //Fardo do Herói
 https://destinytracker.com/destiny-2/db/items/1865351684?perks=1294026524,3151536500,1885400500,2039302152,2213355989
+//
 
 //+++++++++++++++++++++++++++++++++
 //Armas da Vanguarda
@@ -144,7 +145,7 @@ https://destinytracker.com/destiny-2/db/items/736901634?perks=1294026524,9819148
 
 //+++++++++++++++++++++++++++++++++
 //Armas do Arsenal Negro
-
+//+++++++++++++++++++++++++++++++++
 //Cabeça de Martelo
 https://destinytracker.com/destiny-2/db/items/603242241?perks=1294026524,3250034553,1968497646,2779035018,3425386926
 //O Prego Ressonante
@@ -182,7 +183,7 @@ https://destinytracker.com/destiny-2/db/items/2817798849?perks=1294026524,981914
 
 //+++++++++++++++++++++++++++++++++
 //Cativeiro
-
+//+++++++++++++++++++++++++++++++++
 //Falcoeiro
 dimwishlist:item=2429822977&perks=3250034553,3142289711,1168162263,47981717
 //Bem Amado
